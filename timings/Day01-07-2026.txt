@@ -1,0 +1,38 @@
+##  Todays Task
+    |-- Types of IP Addresses
+    |-- Types of common web protocals
+    
+
+    ##  Types of IP Addresses
+        |-- IPv4
+            |-- Standard 32-bit IP
+
+        |-- IPv6
+            |-- 128-bit IP
+        
+        |-- Public IP
+            |-- using this we can access internet
+        
+        |-- Private IP
+            |-- it use only for internal communication
+
+        |-- Static IP
+            |-- IP that assign manually and it wont change
+        
+        |-- Dynamic IP
+            |-- IP that assign through DHCP
+
+    ##  Types of Web protocals
+        |-- HTTP
+            |-- Mostly use for internal web-site
+            |-- use port 80
+
+        |-- HTTPS
+            |-- use for internal as well as external web-site
+            |-- use port 443
+        
+        |-- FTP
+            |-- use for file transfer and use port 22
+
+        |-- SFTP
+            |-- it is also use for file transfer with securely.
