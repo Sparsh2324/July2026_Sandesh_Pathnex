@@ -1,0 +1,13 @@
+##  Morning ##
+    |-- 6:00 AM :   Attend the online Classes
+    |-- 1 hrs :     do code practice (Day1 & Day2)
+    |-- 30 mins :   online study (google & ChatGPT)
+    |-- 6 hrs   :   Office work
+
+##  Afternoon   ##
+    |-- 30 mins :   watch linux Youtube videos
+
+##  Evening     ##
+    |-- 1 hr    :   do the Gym exercise
+    |-- 30 mins :   practice Git pull, push, PR
+    
